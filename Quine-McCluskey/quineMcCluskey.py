@@ -173,3 +173,4 @@ for i in range(0, len(formula)):
         print(formula[i],end="")
     if formula[i]=="+" and i < len(formula)-1:
         print(" + ", end="")
+input()
